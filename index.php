@@ -909,24 +909,24 @@
 
             <!--====================  Our Values End  ====================-->
 
-            <div class="brand-logo-slider-area section-space--ptb_60">
+            <!-- <div class="brand-logo-slider-area section-space--ptb_60"> -->
                 
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-12">
                 <!-- section-title-wrap Start -->
-                <div class="row text-center pb-1">
+                <!-- <div class="row text-center pb-1">
                         <h6 class="section-sub-title mb-20">Our Clients</h6>
                      
-                    </div>
+                    </div> -->
                 <!-- section-title-wrap Start -->
-            </div>
-        </div>
+            <!-- </div>
+        </div> --> -->
 
-                <div class="container">
+                <!-- <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
                             <!-- brand logo slider -->
-                            <div class="brand-logo-slider__container-area">
+                            <!-- <div class="brand-logo-slider__container-area">
                                 <div class="swiper-container brand-logo-slider__container p-5 swiper-container-initialized swiper-container-horizontal">
                                     <div class="swiper-wrapper brand-logo-slider__one " style="transform: translate3d(-2211px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide brand-logo brand-logo--slider swiper-slide-duplicate" data-swiper-slide-index="3" style="width: 171px; margin-right: 30px;">
                                             <a href="#">
@@ -1018,11 +1018,11 @@
                                             </a>
                                         </div></div>
                                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                            </div>
-                        </div>
+                            </div> -->
+                        <!-- </div>
                     </div>
-                </div>
-            </div>
+                <!-- </div> -->
+            <!-- </div> --> --> -->
         </div>
 
 
