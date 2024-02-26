@@ -1,0 +1,27 @@
+
+RewriteEngine on
+RewriteRule ^Aboutus                aboutus.php [NC,L]
+RewriteRule ^Home                index.php [NC,L]
+RewriteRule ^ContactUS                contactus.php [NC,L]
+RewriteRule ^Services                service.php [NC,L]
+RewriteRule ^Technologies                technologies.php [NC,L]
+
+RewriteRule ^Products                product.php [NC,L]
+RewriteRule ^Portfolio                portfolio.php [NC,L]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
