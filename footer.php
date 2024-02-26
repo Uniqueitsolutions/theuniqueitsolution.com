@@ -14,22 +14,17 @@
                                     <ul class='list ht-social-networks solid-rounded-icon'>
 
                                         <li class='item'>
-                                            <a href='https://twitter.com' target='_blank' aria-label='Twitter' class='social-link hint--bounce hint--top hint--primary'>
-                                                <i class='fab fa-twitter link-icon text-white'></i>
-                                            </a>
-                                        </li>
-                                        <li class='item'>
-                                            <a href='https://facebook.com' target='_blank' aria-label='Facebook' class='social-link hint--bounce hint--top hint--primary'>
+                                            <a href='https://facebook.com/unique_it_solutions' target='_blank' aria-label='Facebook' class='social-link hint--bounce hint--top hint--primary'>
                                                 <i class='fab fa-facebook-f link-icon text-white'></i>
                                             </a>
                                         </li>
                                         <li class='item'>
-                                            <a href='https://instagram.com' target='_blank' aria-label='Instagram' class='social-link hint--bounce hint--top hint--primary'>
+                                            <a href='https://www.instagram.com/unique_it_solutions' target='_blank' aria-label='Instagram' class='social-link hint--bounce hint--top hint--primary'>
                                                 <i class='fab fa-instagram link-icon text-white'></i>
                                             </a>
                                         </li>
                                         <li class='item'>
-                                            <a href='https://linkedin.com' target='_blank' aria-label='Linkedin' class='social-link hint--bounce hint--top hint--primary'>
+                                            <a href='https://www.linkedin.com/company/unique-it-solution/' target='_blank' aria-label='Linkedin' class='social-link hint--bounce hint--top hint--primary'>
                                                 <i class='fab fa-linkedin link-icon text-white'></i>
                                             </a>
                                         </li>
@@ -51,11 +46,11 @@
                                 <ul class='footer-widget__list'>
                                     <li>
                                         <img src='./Images/email-logo-min.png'>
-                                        <a href='#' class='hover-style-link'>@uniqueitsolution</a>
+                                        <a href='mailto:info@theuniqueitsolution.com' class='hover-style-link'>info@theuniqueitsolution.com</a>
                                     </li>
                                     <li>
                                         <img src='./Images/contactus-logo-min.png'>
-                                        <a href='#' class='hover-style-link'>+91 93052 16736</a>
+                                        <a href='tel:+917874579457' class='hover-style-link'>+91 78745 79457</a>
                                     </li>
                                 </ul>
                             </div>
