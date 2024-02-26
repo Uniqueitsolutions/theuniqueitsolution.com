@@ -79,7 +79,7 @@
 
                             <div style="padding-top: 1rem; color: #FFFFFF;font-weight: 400;font-size: medium;">
 
-                                <p>The inception of Unique IT Solutions traces back to October 14, 2020, inspired by the mission to unravel the complexities of IT processes. We stand as a dynamic and skilled team of tech enthusiasts, committed to delivering top-notch services across various sectors. Whether it's crafting innovative websites, developing cutting-edge applications, or devising strategic digital marketing campaigns, we excel in diverse fields. Our core values, namely quality and trust, define our unwavering dedication. At Unique IT Solutions, we pride ourselves on providing distinctive and reliable solutions, guaranteeing excellence and trustworthiness in every project we undertake.
+                                <p>The inception of Unique IT Solutions traces back to October 14, 2021, inspired by the mission to unravel the complexities of IT processes. We stand as a dynamic and skilled team of tech enthusiasts, committed to delivering top-notch services across various sectors. Whether it's crafting innovative websites, developing cutting-edge applications, or devising strategic digital marketing campaigns, we excel in diverse fields. Our core values, namely quality and trust, define our unwavering dedication. At Unique IT Solutions, we pride ourselves on providing distinctive and reliable solutions, guaranteeing excellence and trustworthiness in every project we undertake.
                                 </p>
 
 

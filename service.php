@@ -19,7 +19,7 @@
                     <div class="col-lg-2 d-flex justify-content-center align-items-center">
                         <div class="hero-logo-container bg-success d-none d-lg-block">
 
-                            <div class="logo-simple logo-upper-simple white-logo" style="top:5%"></div>
+                            <div class="logo-simple logo-upper-simple white-logo" style="top:3.3%"></div>
                             <div class="logo-simple logo-lower"></div>
 
                         </div>
@@ -28,9 +28,9 @@
                     <div class="col-lg-9 ms-auto">
                         <div class="contact-info style-two text-left">
 
-                            <div class="contact-info-title-wrap">
+                            <div class="contact-info-title-wrap ">
                                 <div style="border-bottom: 4px solid #4BF586; display: inline-block;">
-                                    <h3 class="text-white heading1 text-start">SERVICES &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                                    <h3 class="text-white heading1 text-start mt-4">SERVICES &nbsp;&nbsp;&nbsp;&nbsp;</h3>
                                 </div>
                             </div>
 
@@ -131,9 +131,9 @@
                                         </div>
                                     </a>
                                 </div>
-                                <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
+                                <!-- <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- Digital Marketing/Branding -->
-                                    <a href="#DIGITAL-MARKETING" class="ht-box-images style-04">
+                                    <!-- <a href="#DIGITAL-MARKETING" class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
                                                 <img class="img-fluid" src="./Images/icons8-digital-marketing-60-min.png" alt="Digital Marketing/Branding Icon">
@@ -143,8 +143,8 @@
                                                 <div class="text">Enhance your online presence and brand identity with our comprehensive digital marketing services.</div>
                                             </div>
                                         </div>
-                                    </a>
-                                </div>
+                                    </a> -->
+                                <!-- </div> --> -->
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- Maintenance -->
                                     <a href="#MAINTENANCE" class="ht-box-images style-04">
@@ -466,7 +466,7 @@
                 <div class="row ">
                     <div class="col-lg-5 d-flex justify-content-center align-items-center">
                         <div class="image mx-auto ">
-                            <img class="img-fluid " src="./Images/digital_vector-min.png" alt="">
+                            <img class="img-fluid " src="./Images/maintanace_vector-min.png" alt="">
                         </div>
                     </div>
 
@@ -475,19 +475,23 @@
 
                             <div class="contact-info-title-wrap">
                                 <div style="border-bottom: 4px solid #4BF586; display: inline-block;">
-                                    <h3 class="text-white heading1 text-start">DIGITAL MARKETING &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                                    <h3 class="text-white heading1 text-start">MAINTENANCE &nbsp;&nbsp;&nbsp;&nbsp;</h3>
                                 </div>
                             </div>
 
 
                             <div class="data" style="padding-top: 2rem;color: #FFFFFF; font-weight: 400;">
-                                <p>Our goal is to improve your internet visibility and support the growth of your company. Examine the services we provide for digital marketing:
-:</p>
-<UL>
-    <li>
-        <b>1. Search Engine Optimization (SEO): 
-</b>Make the most of social media's ability to engage your audience. We develop effective marketing programs that increase engagement and brand recognition.
+                            <p>At Unique IT Solutions, we take care of maintaining the highest quality online presence for you. Our website maintenance services are designed to keep your website up and running so you can concentrate on your strengths. This is how we maintain your virtual residence:</p>
 
+<p>We regularly update and perform security checks on your website to guard against threats and vulnerabilities.
+</p>
+<p>Update your material without having to do any work at all. We take care of any necessary adjustments to your images, content, and website.
+</p>
+<p>We enhance the functionality of your website to guarantee quick loads, giving users a smooth and uninterrupted surfing experience.
+</p>
+<p>Our team of professionals is prepared to identify and fix any bugs or problems that may emerge, guaranteeing that your website runs without any difficulties.</p>
+<p>Let us make sure your online presence is as strong as possible! At Unique IT Solutions, we think a successful website is one that is well-maintained.
+</p>
     </li>
     <!-- <li>
         <b>2. Content and Email Marketing:
@@ -512,51 +516,7 @@
         </div>
         <!--============ digital marketing  ============-->
         <!--===========  mobile app development =============-->
-        <div class="contact-us-area  section-space--pt_100" id="MAINTENANCE" style="padding-top: 1rem;padding-bottom:2rem;">
-            <div class="container">
-                <div class="row ">
-
-
-                    <div class="col-lg-7 ms-auto">
-                        <div class="contact-info style-two text-left">
-                            <div class="contact-info-title-wrap">
-                                <div style="border-bottom: 4px solid #0487FF; display: inline-block;">
-                                    <h3 class=" heading1 text-start">MAINTENANCE &nbsp;&nbsp;&nbsp;&nbsp;</h3>
-                                </div>
-                            </div>
-
-
-                        </div>
-
-                        <div class="data" style="padding-top: 1rem; font-weight: 400;">
-
-                            <p>At Unique IT Solutions, we take care of maintaining the highest quality online presence for you. Our website maintenance services are designed to keep your website up and running so you can concentrate on your strengths. This is how we maintain your virtual residence:</p>
-
-                            <p>We regularly update and perform security checks on your website to guard against threats and vulnerabilities.
-</p>
-<p>Update your material without having to do any work at all. We take care of any necessary adjustments to your images, content, and website.
-</p>
-<p>We enhance the functionality of your website to guarantee quick loads, giving users a smooth and uninterrupted surfing experience.
-</p>
-<p>Our team of professionals is prepared to identify and fix any bugs or problems that may emerge, guaranteeing that your website runs without any difficulties.</p>
-                            <p>Let us make sure your online presence is as strong as possible! At Unique IT Solutions, we think a successful website is one that is well-maintained.
-</p>
-                            <a href="portfolio.html">
-                                <p class="secondary-button-sm border-blue text-black"><i class="fas fa-info-circle"></i> Visit Portfolio</p>
-                            </a>
-                        </div>
-
-
-                    </div>
-
-                    <div class="col-lg-5  d-flex justify-content-center align-items-center ">
-                        <div class="image  mx-auto ">
-                            <img class="img-fluid" src="./Images/maintanace_vector-min.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+     
         <div class="accordion-wrapper bg-gray section-space--ptb_100">
             <div class="container">
 

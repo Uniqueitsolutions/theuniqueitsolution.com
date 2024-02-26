@@ -21,14 +21,14 @@
             
                                     <div class="contact-info-title-wrap">
                                         <div style="border-bottom: 4px solid #4BF586; display: inline-block;">
-                                            <h3 class="text-white heading1 text-start" >TECHNOLOGIES&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                                            <h3 class="text-white heading1 text-start mt-3" >TECHNOLOGIES&nbsp;&nbsp;&nbsp;&nbsp;</h3>
                                         </div>
                                     </div>
                                     
                                     
-                                    <div class="data "   >
+                                    <div class="data  text-white">
                                     
-                                        <p 
+                                        <p >
                                             
                                         Staying ahead in today's fast-paced corporate climate requires the ability to predict change and take benefit of innovative ideas, in addition to following the newest trends. </p>
                                         <p>

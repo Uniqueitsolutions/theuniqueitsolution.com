@@ -28,7 +28,7 @@
             
                                     <div class="contact-info-title-wrap">
                                         <div style="border-bottom: 4px solid #4BF586; display: inline-block;">
-                                            <h3 class="text-white heading1 text-start" >PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                                            <h3 class="text-white mt-3 heading1 text-start" >PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;</h3>
                                         </div>
                                     </div>
                                     
@@ -85,9 +85,7 @@
                             <li class="tab__item nav-item ">
                                 <a class="nav-link" id="nav-tab3" data-bs-toggle="tab" href="#MOBILE-APP" role="tab" aria-selected="false">MOBILE APP DEVELOPMENT</a>
                             </li>
-                            <li class="tab__item nav-item ">
-                                <a class="nav-link" id="nav-tab5" data-bs-toggle="tab" href="#DIGITAL-MARKETING" role="tab" aria-selected="false">DIGITAL-MARKETING</a>
-                            </li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -97,6 +95,30 @@
                     <div class="tab-pane fade show active" id="WEB-DEVELOPMENT" role="tabpanel">
                         <div class="tab-history-wrap">
                             <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                    <div class="single-preview-item__wrap mt-40 text-center">
+                                        <a href="https:/rotilafood.com/" target="_blank">
+                                            <div class="frame-screen">
+                                                <div class="dots">
+                                                    <div class="dot"></div>
+                                                    <div class="dot"></div>
+                                                    <div class="dot"></div>
+                                                </div>
+                                                <div class="single-preview-item__thumbnail">
+                                                    <img class="img-fluid" src="./Images/WEBSITE_IMAGES/rotilafood.png" height="480" width="338" alt="">
+                                                    <div class="overlay">
+                                                        <div class="btn-view-demo btn btn--white">
+                                                            Visit Site
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="single-preview-item__info">
+                                                    <h6 class="heading">Rotila Food</h6>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="single-preview-item__wrap mt-40 text-center">
                                         <a href="https://kingdomceramic.com/" target="_blank">
@@ -173,7 +195,7 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="single-preview-item__wrap mt-40 text-center">
-                                        <a   target="_blank">
+                                        <a href="https://iskongathiya.com"  target="_blank">
                                             <div class="frame-screen">
                                                 <div class="dots">
                                                     <div class="dot"></div>
@@ -269,7 +291,7 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="single-preview-item__wrap mt-40 text-center">
-                                        <a hr     target="_blank">
+                                        <a target="_blank">
                                             <div class="frame-screen">
                                                 <div class="dots">
                                                     <div class="dot"></div>
@@ -430,28 +452,47 @@
                             <div class="row">
                                 <div class="col-lg-4 col-md-6 wow move-up animated">
                                     <!-- ht-box-icon Start -->
-                                    <a href="https://play.google.com/store/apps/details?id=com.uniqueitsolution.applebathfitting" class="ht-large-box-images style-03">
+                                    <a href="https://play.google.com/store/apps/details?id=com.cqpplefitting&hl=en&gl=US&pli=1" class="ht-large-box-images style-03">
                                         <div class="large-image-box">
                                             <div class="box-image">
                                                 <div class="default-image">
-                                                    <img class="img-fluid" src="./Images/WEBSITE_IMAGES/applebath.png" alt="">
-                                                    
+                                                    <img class="img-fluid" src="./Images/WEBSITE_IMAGES/applebath.png" alt="">                                                    
                                                 </div>
                                             </div>
                                             <div class="content">
-                                                <h5 class="heading">Apple Bath Fitting</h5>
+                                                <h5 class="heading">Cqpple Bath Fitting</h5>
                                                 <div class="text">This specialized ERP system for bath fitting plumbers simplifies warranty service operations. It manages requests, schedules plumbers, verifies warranties, and ensures efficient inventory. With digital work orders and mobile access, it boosts productivity and customer satisfaction.
                                                 </div>
-                                                <div href="#" class="box-images-arrow">
+                                                <!-- <div href="#" class="box-images-arrow">
                                                     <span class="button-text">Know More</span>
                                                     <i class="fas fa-arrow-right"></i>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </a>
                                     <!-- ht-box-icon End -->
                                 </div>
-                               
+                                <div class="col-lg-4 col-md-6 wow move-up animated">
+                                    <!-- ht-box-icon Start -->
+                                    <a  class="ht-large-box-images style-03">
+                                        <div class="large-image-box">
+                                            <div class="box-image">
+                                                <div class="default-image">
+                                                    <img class="img-fluid" src="./Images/WEBSITE_IMAGES/happyhomedecor123.png" alt="">                                                    
+                                                </div>
+                                            </div>
+                                            <div class="content">
+                                                <h5 class="heading">Happy Home Decore</h5>
+                                                <div class="text">Discover our simple solution for Happy Home Décor, effortlessly showcasing products and managing inventory for a seamless customer experience from browsing to delivery.  </div>
+                                                <!-- <div href="#" class="box-images-arrow">
+                                                    <span class="button-text">Know More</span>
+                                                    <i class="fas fa-arrow-right"></i>
+                                                </div> -->
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <!-- ht-box-icon End -->
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -461,7 +502,7 @@
                             <div class="row">
 
                                 <div class="col-lg-4 col-md-6 wow move-up animated">
-                                    <!-- ht-box-icon Start -->
+                                    
                                     <a  class="ht-large-box-images style-03">
                                         <div class="large-image-box">
                                             <div class="box-image">
@@ -481,7 +522,7 @@
                                             </div>
                                         </div>
                                     </a>
-                                    <!-- ht-box-icon End -->
+                                   
                                 </div>
                               
                               

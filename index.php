@@ -75,7 +75,7 @@
 
                                     <ul>
                                             <li >
-                                                <a href='Home' ><span>Home</span></a>
+                                                <a href='Home' class="active" ><span>Home</span></a>
                                                 
                                             </li>
                                             <li >
@@ -257,9 +257,7 @@
                             </div>
                             <div class="col-lg-7 offset-lg-1">
                                 <div class="conact-us-wrap-one managed-it">
-                                    <p class="heading " style="font-size: 15px";>Syphnosys Technology Pvt. Ltd. is an Infotech Company. The Company Was Established In 2017. It Was registered as Syphnosys Technology Pvt Ltd In October 2020. We are a team of experts, who can take on new challenges and work towards completion. Syphnosys Technology Pvt. Ltd. is a developing IT enterprise in Surat. We offer a complete cycle of Information Technology services. Syphnosys is a services provider in App Development, Web Development, Digital Marketing, Unity Game Development, Android App Development, iOS App Development, Flutter App Development. In the past few years, We have started operations in INDIA. Syphnosys Technology Pvt. Ltd. is one of the most trusted IT companies of India today, INDEED!
-
-</p>
+                                    <p class="heading " style="font-size: 1rem";>Unique IT Solution offers a comprehensive array of services in both app and web development, tailored to suit the unique requirements of each client. Our agile methodology ensures swift and effective delivery, allowing businesses to stay ahead in today's fast-paced digital world. With our commitment to innovation and client satisfaction, we're not just providing solutions – we're shaping the future of technology.</p>
 
                                 </div>
                             </div>

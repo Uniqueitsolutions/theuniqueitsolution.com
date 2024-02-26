@@ -10,7 +10,7 @@
                         <div class="col-lg-2 d-flex justify-content-center align-items-center">
                             <div class="hero-logo-container bg-success d-none d-lg-block">
 
-                                <div class="logo-simple logo-upper-simple white-logo" style="top:22%"></div>
+                                <div class="logo-simple logo-upper-simple white-logo" style="top:25%"></div>
                                 <div class="logo-simple logo-lower"></div>
                             
                             </div>
@@ -21,7 +21,7 @@
             
                                 <div class="contact-info-title-wrap">
                                     <div style="border-bottom: 4px solid #4BF586; display: inline-block;">
-                                        <h3 class="text-white heading1 text-start" >GET IN TOUCH &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                                        <h3 class="text-white heading1 text-start mt-3" >GET IN TOUCH &nbsp;&nbsp;&nbsp;&nbsp;</h3>
                                     </div>
                                 </div>
             
