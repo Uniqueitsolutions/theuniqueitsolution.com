@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';?>
 <div id="main-wrapper">
     <div class="site-wrapper-reveal h-100">
 
