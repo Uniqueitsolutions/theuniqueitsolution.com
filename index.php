@@ -363,20 +363,6 @@
                             </a>
                         </div>
                         <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                            <!-- Digital Marketing/Branding -->
-                            <a href="#DIGITAL-MARKETING" class="ht-box-images style-04">
-                                <div class="image-box-wrap">
-                                    <div class="box-image">
-                                        <img class="img-fluid" src="./Images/icons8-digital-marketing-60-min.png" alt="Digital Marketing/Branding Icon">
-                                    </div>
-                                    <div class="content">
-                                        <h5 class="heading">Digital Marketing/Branding</h5>
-                                        <div class="text">Enhance your online presence and brand identity with our comprehensive digital marketing services.</div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                             <!-- Maintenance -->
                             <a href="#MAINTENANCE" class="ht-box-images style-04">
                                 <div class="image-box-wrap">
