@@ -78,10 +78,6 @@
                                                 <a href='Home' class="active" ><span>Home</span></a>
                                                 
                                             </li>
-                                            <li >
-                                                <a href='Products' ><span>Products</span></a>
-                                                
-                                            </li>
                                           
                                             <li>
                                                 <a href='Technologies'><span>Technologies</span></a>
