@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Unigue It Solution</title>
+    <title>Unique  It Solution</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Technology IT Solutions HTML Template">
     <!-- Favicon -->
