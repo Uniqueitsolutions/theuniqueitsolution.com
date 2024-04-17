@@ -7,7 +7,6 @@
 
 
 
-
             <div class="contact-us-area  first-area position-relative" id="WEB-DESIGN"style="background-color: #0487FF;">
             <div class="constellation-wrapper">
                     <div id="particles-js"><canvas class="particles-js-canvas-el" width="1848" height="925" style="width: 100%; height: 100%;"></canvas></div>
