@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Technology IT Solutions HTML Template">
     <!-- Favicon -->
-    <link rel="icon" href="assets/Images/favicon.webp">
-
+    
+<link rel="icon" type="image/x-icon" href="Images/favicon.ico">
     <!-- CSS
         ============================================ -->
 
