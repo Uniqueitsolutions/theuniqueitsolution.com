@@ -12,7 +12,7 @@
 
                                 <div class="logo-simple logo-upper-simple white-logo" style="top:25%"></div>
                                 <div class="logo-simple logo-lower"></div>
-                            
+                        
                             </div>
                         </div>
             
