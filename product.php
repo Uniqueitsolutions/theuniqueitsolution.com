@@ -9,7 +9,6 @@
                 <div class="container">
                 <div class="row ">
            
-
                 <div class="col-lg-7 ">
                     <div class="contact-info style-two text-left">
 
