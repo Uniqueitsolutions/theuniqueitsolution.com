@@ -8,7 +8,6 @@
 
 
 
-
         <!--============ Resolutions Hero Start ============-->
         <div class="contact-us-area  first-area" style="background-color: #0487FF;">
             <div class="constellation-wrapper">
