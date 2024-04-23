@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php  require_once 'header.php'; ?>
 
 
 <div id="main-wrapper">
@@ -251,4 +251,4 @@
 
 
 
-<?php include 'footer.php'; ?>
+<?php  require_once  'footer.php'; ?>
