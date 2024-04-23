@@ -9,7 +9,7 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <meta name='description' content='Reliable IT Services for Businesses'>
     <!-- Favicon -->
-<link rel="icon" type="image/x-icon" href="Images/favicon.ico">
+<link rel='icon' type='image/x-icon' href='Images/favicon.ico'>
     <!-- CSS
         ============================================ -->
 
