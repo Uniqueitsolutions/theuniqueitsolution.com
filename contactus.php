@@ -10,7 +10,7 @@
                         <div class="col-lg-2 d-flex justify-content-center align-items-center">
                             <div class="hero-logo-container bg-success d-none d-lg-block">
 
-                                <div class="logo-simple logo-upper-simple white-logo" style="top:25%"></div>
+                                <div class="logo-simple logo-upper-simple white-logo" style="top:17%"></div>
                                 <div class="logo-simple logo-lower"></div>
                         
                             </div>
@@ -110,9 +110,7 @@
 
 
 
-
-
-
+        
 
 
 

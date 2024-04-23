@@ -9,7 +9,8 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <meta name='description' content='Reliable IT Services for Businesses'>
     <!-- Favicon -->
-<link rel='icon' type='image/x-icon' href='Images/favicon.ico'>
+    <link rel='icon' href='Images/Png_UniqueIT.png'>
+
     <!-- CSS
         ============================================ -->
 
@@ -45,7 +46,11 @@
         </div>
     </div>
 
-
+<style>
+.text{
+    font-size:1rem;
+}
+</style>
 
 
 
@@ -56,7 +61,7 @@
         <div class='header-top-bar-info border-bottom d-none d-lg-block'>
             
         </div>
-        <div class='header-bottom-wrap bg-white'>
+        <div class='header-bottom-wrap bg-white header-sticky '>
             <div class='container-fluid'>
                 <div class='row'>
                     <div class='col-lg-12'>
@@ -85,10 +90,17 @@
                                                 <a href='Technologies'><span>Technologies</span></a>
                                                 
                                             </li> 
-                                            <li>
-                                                <a href='Services'><span>Service</span></a>
-                                                
-                                            </li>
+                                            <li class='has-children has-children--multilevel-submenu'>
+                                            <a href='Services'><span>Service</span></a>
+                                            <ul class='submenu'>
+                                                <li><a href='Services#WEB-DESIGN'><span>WEB DESIGN</span></a></li>
+                                                <li><a href='Services#WEB-DEVELOPMENT'><span>WEB DEVELOPMENT</span></a></li>
+                                                <li><a href='Services#CUSTOM-SOFTWARE'><span>CUSTOM SOFTWARE</span></a></li>
+                                                <li><a href='Services#MOBILE-APP'><span>APP DEVELOPMENT</span></a></li>
+                                                <li><a href='Services#MAINTENANCE'><span>MAINTENANCE</span></a></li>
+                                                <li><a href='Services#UI-UX'><span>UI/UX</span></a></li>
+                                            </ul>
+                                        </li>
                                            
                                             
                                             <li>

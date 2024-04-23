@@ -1,4 +1,5 @@
   <?php echo "
+  
   <div class='footer-area-wrapper reveal-footer primary-background-color'>
             <div class='footer-area section-space--ptb_80'>
                 <div class='container text-white'>

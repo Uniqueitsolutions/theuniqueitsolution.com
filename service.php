@@ -1,13 +1,6 @@
-<?php include 'header.php';?>
+<?php include 'header.php'; ?>
 <div id="main-wrapper">
     <div class="site-wrapper-reveal h-100">
-
-
-
-
-
-
-
         <!--============ Resolutions Hero Start ============-->
         <div class="contact-us-area  first-area" style="background-color: #0487FF;">
             <div class="constellation-wrapper">
@@ -17,33 +10,24 @@
                 <div class="row ">
                     <div class="col-lg-2 d-flex justify-content-center align-items-center">
                         <div class="hero-logo-container bg-success d-none d-lg-block">
-
                             <div class="logo-simple logo-upper-simple white-logo" style="top:3.3%"></div>
                             <div class="logo-simple logo-lower"></div>
-
                         </div>
                     </div>
 
                     <div class="col-lg-9 ms-auto">
                         <div class="contact-info style-two text-left">
-
                             <div class="contact-info-title-wrap ">
                                 <div style="border-bottom: 4px solid #4BF586; display: inline-block;">
                                     <h3 class="text-white heading1 text-start mt-4">SERVICES &nbsp;&nbsp;&nbsp;&nbsp;</h3>
                                 </div>
                             </div>
-
                             <div class="data" style="padding-top: 2rem;color: #FFFFFF; font-weight: 400;font-size: medium;">
                                 <p>We redefine excellence throughout a wide range of services at Unique IT Solutions. From attractive website designs to straightforward mobile applications, we skillfully blend creativity and technology.
                                 </p>
                                 <p>Our software solutions are designed with efficiency in mind, allowing organizations to expand. Utilize our expertise in digital marketing and innovative branding strategies to attract your audience. You can count on our attentive maintenance services to maintain the highest possible condition for your digital assets.</p>
-
                                 <p>Pick Unique IT Solutions for unmatched customer support. Explore a world where creativity and durability exist together, and determine new benchmarks for all of your digital interests.</p>
                             </div>
-
-
-
-
                         </div>
                     </div>
                 </div>
@@ -130,20 +114,21 @@
                                         </div>
                                     </a>
                                 </div>
-                                <!-- <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
-                                    <!-- Digital Marketing/Branding -->
-                                    <!-- <a href="#DIGITAL-MARKETING" class="ht-box-images style-04">
+                                <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
+                                    <!-- App Development -->
+                                    <a href="#MOBILE-APP" class="ht-box-images style-04">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fluid" src="./Images/icons8-digital-marketing-60-min.png" alt="Digital Marketing/Branding Icon">
+                                                <img class="img-fluid" src="./Images/icons8-app-development-60 (1)-min.png" alt="Ui/UX Developemt Icon">
                                             </div>
                                             <div class="content">
-                                                <h5 class="heading">Digital Marketing/Branding</h5>
-                                                <div class="text">Enhance your online presence and brand identity with our comprehensive digital marketing services.</div>
+                                                <h5 class="heading">UI/UX Designing</h5>
+                                                <div class="text"> prioritizing user needs is paramount. Crafting intuitive interfaces and seamless experiences ensures users engage effortlessly, fostering trust and loyalty.</div>
                                             </div>
                                         </div>
-                                    </a> -->
-                                <!-- </div> --> -->
+                                    </a>
+                                </div>
+
                                 <div class="single-item col-lg-4 col-md-6 mt-30 wow move-up">
                                     <!-- Maintenance -->
                                     <a href="#MAINTENANCE" class="ht-box-images style-04">
@@ -400,7 +385,7 @@
                                 </p>
                                 <ul>
                                     <li>
-                                      
+
                                         <b>1. Responsive Design:
                                         </b> With seamless screen size adaptation, your software will provide a consistent and delightful user experience across phone and tablet platforms.
                                     </li>
@@ -418,7 +403,7 @@
                                         <b>3. App testing:
 
                                         </b> Strict testing protocols are implemented to find and fix any flaws, guaranteeing a faultless and seamless user experience.
-                                                        
+
 
 
 
@@ -426,7 +411,7 @@
                                     <br />
                                     <li>
                                         <!-- <i class="fas fa-arrow-right"></i> -->
-                                        <b>4. App maintenance and Updates: 
+                                        <b>4. App maintenance and Updates:
 
                                         </b> We provide continuous support after launch to make sure your app stays current with the newest features and technology.
 
@@ -435,8 +420,8 @@
                                     </li>
                                 </ul>
                                 <p>individuals with a wealth of experience and dedication who are focused on creating mobile apps that are unique. We place a high value on openness, communication, and teamwork to make sure your app meets and surpasses expectations.
-</p>
-                              
+                                </p>
+
                                 <a href="portfolio.html">
                                     <p class="secondary-button-sm border-blue text-black"><i class="fas fa-info-circle"></i> Visit Portfolio</p>
                                 </a>
@@ -456,7 +441,7 @@
         </div>
         <!--============ end :  web development ============-->
         <!--===========  digital marketing =============-->
-        <div class="contact-us-area  section-space--pt_100 position-relative" id="DIGITAL-MARKETING" style="background-color: #0487FF; padding-top: 2rem;padding-bottom:2rem;">
+        <div class="contact-us-area  section-space--pt_100 position-relative" id="MAINTENANCE" style="background-color: #0487FF; padding-top: 2rem;padding-bottom:2rem;">
             <div>
                 <div class="left-top-white-cube"></div>
                 <div class="left-top-blue-upper-cube"></div>
@@ -480,29 +465,27 @@
 
 
                             <div class="data" style="padding-top: 2rem;color: #FFFFFF; font-weight: 400;">
-                            <p>At Unique IT Solutions, we take care of maintaining the highest quality online presence for you. Our website maintenance services are designed to keep your website up and running so you can concentrate on your strengths. This is how we maintain your virtual residence:</p>
+                                <p>At Unique IT Solutions, we take care of maintaining the highest quality online presence for you. Our website maintenance services are designed to keep your website up and running so you can concentrate on your strengths. This is how we maintain your virtual residence:</p>
 
-<p>We regularly update and perform security checks on your website to guard against threats and vulnerabilities.
-</p>
-<p>Update your material without having to do any work at all. We take care of any necessary adjustments to your images, content, and website.
-</p>
-<p>We enhance the functionality of your website to guarantee quick loads, giving users a smooth and uninterrupted surfing experience.
-</p>
-<p>Our team of professionals is prepared to identify and fix any bugs or problems that may emerge, guaranteeing that your website runs without any difficulties.</p>
-<p>Let us make sure your online presence is as strong as possible! At Unique IT Solutions, we think a successful website is one that is well-maintained.
-</p>
-    </li>
-    <!-- <li>
-        <b>2. Content and Email Marketing:
-</b>We compose exciting narratives that engage with your audience while building authority and trust in your area of expertise. Also, maintain a relationship with your readers by sending out focused email messages. We will assist you in maintaining an informed and involved audience through promotions and mailings.
-
-    </li> -->
-</UL>
-<p></p>
-                             <a href="portfolio.html">
+                                <p>We regularly update and perform security checks on your website to guard against threats and vulnerabilities.
+                                </p>
+                                <p>Update your material without having to do any work at all. We take care of any necessary adjustments to your images, content, and website.
+                                </p>
+                                <p>We enhance the functionality of your website to guarantee quick loads, giving users a smooth and uninterrupted surfing experience.
+                                </p>
+                                <p>Our team of professionals is prepared to identify and fix any bugs or problems that may emerge, guaranteeing that your website runs without any difficulties.</p>
+                                <p>Let us make sure your online presence is as strong as possible! At Unique IT Solutions, we think a successful website is one that is well-maintained.
+                                </p>
+                                </li>
+          
+                                </UL>
+                                <p></p>
+                                <a href="portfolio.html">
                                     <p class="secondary-button-sm border-white text-white"><i class="fas fa-info-circle"></i> Visit Portfolio</p>
                                 </a>
                             </div>
+
+                        
 
 
 
@@ -515,7 +498,40 @@
         </div>
         <!--============ digital marketing  ============-->
         <!--===========  mobile app development =============-->
-     
+        <div class="contact-us-area  section-space--pt_100" id="UI-UX" style="padding-top: 2rem;padding-bottom:2rem;">
+            <div class="container">
+                <div class="row ">
+
+
+                    <div class="col-lg-6 ms-auto ">
+                        <div class="contact-info style-two text-left">
+
+                            <div class="contact-info-title-wrap">
+                                <div style="border-bottom: 4px solid #0487FF; display: inline-block;">
+                                    <h3 class="text heading1 text-start">UI/UX DESIGNING &nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                                </div>
+                            </div>
+
+                            <div class="data" style="padding-top: 2rem; font-weight: 400;">
+                                <p>As a unique IT solution company, we are dedicated to revolutionizing the digital landscape through bespoke UI/UX designs tailored to our clients' distinct identities and objectives. By collaborating closely with our clients, we ensure that their vision is at the forefront of every project, infusing creativity and technical expertise into intuitive and engaging user experiences. Our commitment to innovation, integrity, and excellence drives us to exceed expectations, empowering our clients to stand out in their industries and shape the future of digital interaction.</p>
+
+                                <a href="portfolio.html">
+                                    <p class="secondary-button-sm border-blue text-black"><i class="fas fa-info-circle"></i> Visit Portfolio</p>
+                                </a>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                        <div class="image">
+                            <img class="img-fluid" src="./Images/ui-ux.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="accordion-wrapper bg-gray section-space--ptb_100">
             <div class="container">
 
@@ -652,7 +668,23 @@
 
 
         <!--========== Call to Action Area Start ============-->
-
+        <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_two">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-8 col-lg-7">
+                            <div class="cta-content md-text-center">
+                                <h3 class="heading">We run all kinds of IT services that vow your <span class="text-color-primary"> success</span></h3>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-5">
+                            <div class="cta-button-group--two text-center">
+                                <a href="tel:+918849999677" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="fa fa-phone"></i></span> Call Now!</a>
+                                <a href="AboutUS" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Get info</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         <!--========== Call to Action Area End ============-->
 
         <!--====================  brand logo slider area ====================-->

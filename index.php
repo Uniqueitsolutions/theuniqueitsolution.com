@@ -1,128 +1,5 @@
-﻿<!DOCTYPE html>
-<html class="no-js" lang="zxx" dir="ltr">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Unique  It Solution</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Technology IT Solutions HTML Template">
-    <!-- Favicon -->
-    
-<link rel="icon" type="image/x-icon" href="Images/favicon.ico">
-    <!-- CSS
-        ============================================ -->
-
-    <!-- Font Family CSS -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
-    <link rel='stylesheet' href='assets/css/custom/custom.css'>
-    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
-    <link href="../css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
-    <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from avobe) -->
-
-    <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
-
-    <!-- Main Style CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    
-
-</head>
-
-<body>
-
-    <div class="preloader-activate preloader-active open_tm_preloader">
-        <div class="preloader-area-wrap">
-            <div class="spinner d-flex justify-content-center align-items-center h-100">
-                <div class="bounce1"></div>
-                <div class="bounce2"></div>
-                <div class="bounce3"></div>
-            </div>
-        </div>
-    </div>
-
-
-
-
-
-
-    <!--====================  header area ====================-->
-    <div class="header-area header-area--absolute">
-
-        <div class="header-top-bar-info border-bottom d-none d-lg-block">
-            
-        </div>
-        <div class="header-bottom-wrap header-sticky">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="header position-relative">
-                            <!-- brand logo -->
-                            <div class="header__logo">
-                                <a href="index.html">
-                                    <img src="Images/Png_UniqueIT.png" aria-label="Mitech Logo" width="160" height="48" class="img-fluid light-logo" alt="">
-                                    <img src="Images/Png_UniqueIT.png" aria-label="Mitech Logo" width="160" height="48" class="img-fluid dark-logo" alt="">
-                                </a>
-                            </div>
-
-                            <div class="header-right">
-                                <!-- navigation menu -->
-                                <div class="header__navigation menu-style-four d-none d-xl-block">
-                                    <nav class="navigation-menu">
-
-                                    <ul>
-                                            <li >
-                                                <a href='Home' class="active" ><span>Home</span></a>
-                                                
-                                            </li>
-                                          
-                                            <li>
-                                                <a href='Technologies'><span>Technologies</span></a>
-                                                
-                                            </li> 
-                                            <li>
-                                                <a href='Services'><span>Service</span></a>
-                                                
-                                            </li>
-                                           
-                                            
-                                            <li>
-                                                <a href='Portfolio'><span>Portfolio</span></a>
-                                                
-                                            </li>
-                                            <li>
-                                                <a href='Aboutus'><span>About us</span></a>
-                                                
-                                            </li>
-    
-                                            <li>
-                                                <a href='ContactUS'><span>Contact us</span></a>
-                                                
-                                            </li>
-                                          
-                                            
-                                           
-                                        </ul>
-                                    </nav>
-                                </div>
-
-                                <!-- mobile menu -->
-                                <div class="mobile-navigation-icon white-md-icon d-block d-xl-none" id="mobile-menu-trigger">
-                                    <i></i>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <!--====================  End of header area  ====================-->
-
+﻿
+<?php include 'header.php'; ?>
 
 
 
@@ -1004,7 +881,26 @@
                         <!-- </div>
                     </div>
                 </div> -->
-            <!-- </div> --> -
+            <!-- </div> --> 
+            
+            <div class="cta-image-area_one section-space--ptb_80 cta-bg-image_two">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-8 col-lg-7">
+                            <div class="cta-content md-text-center">
+                                <h3 class="heading">We run all kinds of IT services that vow your <span class="text-color-primary"> success</span></h3>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-5">
+                            <div class="cta-button-group--two text-center">
+                                <a href="tel:+918849999677" class="btn btn--white btn-one"><span class="btn-icon me-2"><i class="fa fa-phone"></i></span> Call Now!</a>
+                                <a href="AboutUS" class="btn btn--secondary btn-two "><span class="btn-icon me-2"><i class="fas fa-info-circle"></i></span> Get info</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
 

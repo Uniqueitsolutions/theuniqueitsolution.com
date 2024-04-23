@@ -1,7 +1,9 @@
 
 
 
-
+.text{
+    font-size: 2rem !important;
+}
 
 .customcontent {
     font-family: Poppins;
@@ -74,7 +76,7 @@ text-transform: uppercase;
     border-radius: 7px;
 }
 .data .p{
-    font-size: 14px;
+    font-size:.8rem !important;
 
 }
 p{
@@ -340,6 +342,7 @@ body {
     margin: 20px 30px;
 }
 
+
 .language img{
 
     width: 50%;
@@ -528,4 +531,7 @@ body {
         display: none;
     }
 
+}
+.text{
+    font-size: 2rem !important;
 }
