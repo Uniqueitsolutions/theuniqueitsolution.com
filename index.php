@@ -94,9 +94,9 @@
 </li>
 </UL>
 <p></p>
-                             <a href="portfolio.html">
+                             <!-- <a href="portfolio.html">
                                     <p class="secondary-button-sm border-white text-white"><i class="fas fa-info-circle"></i> Visit Portfolio</p>
-                                </a>
+                                </a> -->
                             </div>
 
 
